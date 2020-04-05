@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DatabaseApplication</string>
+    <string name="action_contact_dialog_title" />
+    <string name="edit" />
+    <string name="cancel" />
+    <string name="ok" />
+    <string name="Button_Update_Text" />
+    <string name="name" />
+    <string name="add_contact" />
+</resources>
